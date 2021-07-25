@@ -11,4 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CharacterSelectSceneKiwi.unity
     guid: 742ec7cc58d9c284fb5ec89d1f28232d
+  - enabled: 1
+    path: Assets/Scenes/KiwiInfo.unity
+    guid: c76cd1e659a924d4eaaadc47aee603f5
+  - enabled: 1
+    path: Assets/Scenes/TuataraInfo.unity
+    guid: 709f8102332c40a44bcc407185cfd521
   m_configObjects: {}
